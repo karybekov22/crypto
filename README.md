@@ -21,7 +21,9 @@ Technical features:
 
 Tutorials used:
 - SwiftfulThinking ([link](https://www.youtube.com/c/SwiftfulThinking))
-![Music Search 1](https://user-images.githubusercontent.com/55115453/123267254-a0e48c80-d51e-11eb-8c2a-876e08eff544.png)
-![Music Search 2](https://user-images.githubusercontent.com/55115453/123267260-a215b980-d51e-11eb-9b4a-16941c303dcb.png)
-![Music Search](https://user-images.githubusercontent.com/55115453/123267269-a2ae5000-d51e-11eb-88df-393ea2fc6260.png)
+
+
+![Crypto 1](https://github.com/karybekov22/crypto/blob/main/Screenshots/Crypto%20First.png) 
+![Crypto 2](https://github.com/karybekov22/crypto/blob/main/Screenshots/Crypto%20Second.png)
+![Crypto 3](https://github.com/karybekov22/crypto/blob/main/Screenshots/Crypto%20Third.png)
 
