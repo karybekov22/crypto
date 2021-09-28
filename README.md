@@ -23,7 +23,10 @@ Tutorials used:
 - SwiftfulThinking ([link](https://www.youtube.com/c/SwiftfulThinking))
 
 
-![Crypto 1](https://github.com/karybekov22/crypto/blob/main/Screenshots/Crypto%20First.png) 
-![Crypto 2](https://github.com/karybekov22/crypto/blob/main/Screenshots/Crypto%20Second.png)
-![Crypto 3](https://github.com/karybekov22/crypto/blob/main/Screenshots/Crypto%20Third.png)
+
+
+
+![Crypto 1](https://github.com/karybekov22/crypto/blob/main/Screenshots/First.png)
+![Crypto 2](https://github.com/karybekov22/crypto/blob/main/Screenshots/Second.png)
+<!-- ![Crypto 3](https://github.com/karybekov22/crypto/blob/main/Screenshots/Third.png) -->
 
