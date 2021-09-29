@@ -21,7 +21,7 @@ Technical features:
 
 Tutorials used:
 - SwiftfulThinking ([link](https://www.youtube.com/c/SwiftfulThinking))
-
+- AppStuff ([link](https://www.youtube.com/watch?v=YIx3e0xWKtk&t=328s))
 
 
 
