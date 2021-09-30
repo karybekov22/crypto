@@ -4,14 +4,12 @@ SwiftUI Crypto app that searches cryptocurrencies and shows them in a list using
 
 App features:
 - Live cryptocurrency data
-- Saving current user's portfolio
 - Searching, Filtering, Sorting, and Reloading data
 - Custom color theme and loading animations
 - Network Connection Check
 
 Technical features:
 - MVVM Architecture
-- Core Data (saving current user's portfolio)
 - FileManager (saving images)
 - Combine (publishers and subscribers)
 - Multiple API calls
@@ -27,7 +25,7 @@ Tutorials used:
 
 
 
-![Crypto 1](https://github.com/karybekov22/crypto/blob/main/Screenshots/First.png)
-![Crypto 2](https://github.com/karybekov22/crypto/blob/main/Screenshots/Second.png)
-<!-- ![Crypto 3](https://github.com/karybekov22/crypto/blob/main/Screenshots/Third.png) -->
+![Crypto 1](https://github.com/karybekov22/crypto/blob/main/Screenshots/Crypto%20Simple%20HomeView.png)
+![Crypto 2](https://github.com/karybekov22/crypto/blob/main/Screenshots/Crypto%20Simple%20DetailView.png)
+
 
